@@ -17,5 +17,5 @@ return {
     { Nick = "Sie Jaraa", Vocation = "MS", HPMP = 61136 },
     { Nick = "Techno", Vocation = "ED", HPMP = 178412 },
     { Nick = "TUZZA", Vocation = "MS", HPMP = 102110 },
-    { Nick = "Wydziarany", Vocation = "MS", HPMP = 135640 },    
+    { Nick = "Slaby Mag", Vocation = "MS", HPMP = 135640 },    
 }
