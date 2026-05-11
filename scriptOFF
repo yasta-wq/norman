@@ -1,0 +1,9 @@
+-- Made by Sznyt For Bloods
+
+info("TEST: Script.lua zaladowany poprawnie")
+
+return {
+  onStop = function()
+    info("TEST: Script.lua zatrzymany")
+  end
+}
